@@ -15,7 +15,7 @@ git config --global color.status 'auto'<br />
 git config --global color.branch 'auto'<br />
 git config --global credential.helper store<br />
 git config --global push.default simple<br />
-git config --global core.autocrlf false<br /><br />
+git config --global core.autocrlf false<br />
 git config --global core.eol lf<br />
 ```
 
