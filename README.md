@@ -7,7 +7,7 @@ sudo apt-get install git<br />
 ```
 
 <h4>1 шаг: открываем терминал и устанавливаем первоначальные конфигурации</h4>
-```bash
+```bash<br />
 git config --global user.name 'имя_пользователя_github'<br />
 git config --global user.email 'ваша_электронная_почта'<br /><br />
 git config --global color.diff 'auto'<br />
