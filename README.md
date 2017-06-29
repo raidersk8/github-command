@@ -24,6 +24,9 @@ git config --global core.eol lf<br />
 mkdir C:/develop/ #cоздаем папку на диске C (если Windows)<br />
 git clone https://github.com/user/titlerepository # копируем свой репозиторий на компьютер<br />
 cd titlerepository/ #заходим в локальный репозиторий<br />
+git clone -b <branch> <remote_repo><br />
+Example:<br />
+git clone -b my-branch git@github.com:user/myproject.git<br />
 ```<br />
 
 <h4>3 шаг: обновляем изменения на гитхабе</h4>
