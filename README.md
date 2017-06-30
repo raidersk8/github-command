@@ -42,3 +42,6 @@ git clone -b my-branch git@github.com:user/myproject.git<br />
 git add . #производится индексирование файлов на предмет изменения в них<br />
 git commit -m "update" #фиксируем публикацию, комментируем изменения<br />
 git push -f #отправляем на сервер GitHub<br />
+
+<h4>3 шаг: обновляем изменения на локале из гитхаба</h4>
+git pull
